@@ -1,0 +1,9 @@
+[user]
+	name = mitayuki3
+	email = mitayuki3@yahoo.co.jp
+[alias]
+	co = checkout
+	st = status
+	b = branch
+[core]
+	editor = vi
