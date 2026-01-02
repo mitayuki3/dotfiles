@@ -14,7 +14,7 @@
 [tag]
 	sort = version:refname
 [init]
-	defaultBranch = master
+	defaultBranch = main
 [diff]
 	algorithm = histogram
 	colorMoved = plain
